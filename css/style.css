@@ -510,6 +510,9 @@ body {
 .article-inner {
   overflow: hidden;
 }
+.article-meta {
+  color: #000;
+}
 .article-meta:before,
 .article-meta:after {
   content: "";
@@ -552,7 +555,7 @@ a.article-title:hover {
   color: #258fb8;
 }
 .article-entry {
-  color: #555;
+  color: #fff;
   padding: 0 20px;
 }
 .article-entry:before,
